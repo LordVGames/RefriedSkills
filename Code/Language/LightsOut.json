@@ -1,0 +1,5 @@
+{
+  "strings": {
+    "BANDIT2_SPECIAL_DESCRIPTION": "<style=cIsDamage>Slayer</style>. Fire a revolver shot for <style=cIsDamage>600% damage</style>. Hitting with <style=cIsHealth>Backstab</style> <style=cIsUtility>resets </style>this skill's cooldown. Hitting a <style=cIsHealth>Hemorrhaged</style> enemy <style=cIsUtility>resets</style> your primary stocks and secondary skill cooldown."
+  }
+}

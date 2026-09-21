@@ -1,0 +1,5 @@
+{
+  "strings": {
+    "BANDIT2_SECONDARY_DESCRIPTION": "Lunge and slash for <style=cIsDamage>360% damage</style>. Critical Strikes also cause <style=cIsUtility>2</style> stacks of <style=cIsHealth>hemorrhaging</style>."
+  }
+}

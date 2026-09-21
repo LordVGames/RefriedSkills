@@ -1,0 +1,14 @@
+{
+	"name": "RefriedSkills",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/LordVGames/RefriedSkills",
+	"description": "Changes a few survivor skills to make them more fun to use. Currently only affects bandit",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2122",
+		"MonoDetour-MonoDetour_BepInEx_5-0.7.16",
+		"RiskofThunder-R2API_Core-5.3.0",
+		"RiskofThunder-R2API_Language-1.1.0",
+		"RiskofThunder-R2API_Networking-1.0.4",
+		"Moffein-BackstabRework-1.0.4"
+	]
+}

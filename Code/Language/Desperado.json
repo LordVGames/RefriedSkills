@@ -1,0 +1,6 @@
+{
+  "strings": {
+    "BANDIT2_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Slayer</style>. Fire a revolver shot for <style=cIsDamage>600% damage</style>. Hitting with <style=cIsHealth>Backstab</style> grants <style=cIsDamage>stacking tokens</style>. Each <style=cIsHealth>Hemorrhage</style> stack on the enemy gives you an <style=cIsDamage>additional token</style>.",
+    "RFS_BANDIT2_DESPERADO_TOKENS_KEYWORD": "<style=cKeywordName>Stacking Tokens</style><style=cSub>Each token is a buff that gives your next Desperado shot 10% more damage. Collected tokens last 12 seconds, but the duration resets upon collecting more.</style>"
+  }
+}
